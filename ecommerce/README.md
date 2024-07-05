@@ -1,4 +1,4 @@
-This repository contains a simple e-commerce webpage built using only HTML and CSS. The project showcases a static layout for an online store with a modern and responsive design.
+This project contains a simple e-commerce webpage built using only HTML and CSS. The project showcases a static layout for an online store with a modern and responsive design.
 
 ![Screenshot 2024-07-05 204247](https://github.com/anushka-zade/HTML-CSS-/assets/163355213/82ff77aa-8cd9-4d04-81be-ee40bf8a008c)
 

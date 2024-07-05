@@ -1,1 +1,1 @@
-
+This projects contains a single HTML and CSS page built using React.js and Tailwind CSS. The project demonstrates the integration of Tailwind CSS in a React application for building a responsive and modern user interface.![Screenshot 2024-07-05 194552](https://github.com/anushka-zade/HTML-CSS-/assets/163355213/ea632e54-f6fa-40da-9e3a-a051b842268e)
